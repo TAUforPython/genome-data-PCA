@@ -1,3 +1,5 @@
+https://www.ensembl.org/Homo_sapiens/Location/Overview?r=6:83391929-83393910;db=core 
+
 # PCA-genome-data
 Genomic data clustering using Principal Component Analysis (PCA)
 See `ipynb` notebook for detailed walkthrough of analysis or [my website](https://web.stanford.edu/~sakshamg/portfolio/PCA_genomes/)
